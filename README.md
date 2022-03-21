@@ -1,4 +1,4 @@
-Nikhsd899/README.md
+
 Thanks for stopping by.
 👋 A little bit about me:
 🌲 I live in Fresno, CA.
@@ -9,7 +9,9 @@ Thanks for stopping by.
 📫 Message me if you'd like to connect!
 
 ⚡ My toolkit:
-JAVASCRIPT, REACT, REACT ROUTER, RUBY, RUBY ON RAILS, NPM, BOOTSTRAP, POSTGRESQL, SQLITE, HTML5, CSS3, MYSQL, NODE.JS, NPM, MARKDOWN, STYLED-COMPONENTS, GIT, INSOMNIA, RECHARTS, REACT CHARTJS 2, HEROKU
+JAVASCRIPT, REACT, REACT ROUTER, RUBY, RUBY ON RAILS, NPM, BOOTSTRAP, POSTGRESQL, SQLITE, 
+HTML5, CSS3, MYSQL, NODE.JS, NPM, MARKDOWN, STYLED-COMPONENTS, GIT, 
+INSOMNIA, RECHARTS, REACT CHARTJS 2, HEROKU
 
 
                                                                          
