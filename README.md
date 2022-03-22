@@ -10,7 +10,7 @@ Thanks for stopping by
 
 🧑‍🤝‍🧑 Also into sports and competetive coding.
 
-📊 Alumni: University of California, Berkeley and Flatiron School
+📊 Alumni: UC Berkeley and Flatiron School
 
 📫 Message me if you'd like to connect!
 
