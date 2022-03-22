@@ -1,4 +1,4 @@
-Thanks for stopping by.
+Thanks for stopping by!
 
 👋 A little bit about me:
 
